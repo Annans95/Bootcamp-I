@@ -21,9 +21,9 @@ Este repositório tem como objetivo organizar e apresentar meus projetos acadêm
 
 ---
 
-## Projetos (em breve...)
-
-Aqui você poderá ver os códigos e descrições dos meus projetos conforme forem sendo desenvolvidos nas disciplinas da graduação.
+## Projetos
+- [Projetos em Python](./Python/)
+- [Projetos em C](./C/)
 
 ---
 
