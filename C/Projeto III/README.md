@@ -1,4 +1,4 @@
-# Jogo da Adivinhação – C
+# Jogo da Adivinhação 
 
 ## Descrição
 
@@ -30,7 +30,7 @@ Este é um jogo simples de adivinhação desenvolvido em linguagem C. O programa
 
 
 
-##Exemplo de uso
+##  Exemplo de uso
 
 Jogo da Adivinhação
 Digite a sua tentativa de 1 a 100: 50
@@ -42,7 +42,7 @@ Muito Baixo!
 Você errou, digite novamente: 70
 Você acertou! Número de tentativas: 4
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 
 Linguagem C
 
@@ -55,8 +55,8 @@ stdlib.h – Geração de números aleatórios
 time.h – Obtenção da hora atual para gerar aleatoriedade
 
 
-##Autoras
+## Autoras
 
 Anna Nicolly da Silva
 
-Anne Caroline Gonçalves de Mesquita
+[[Anne Caroline Gonçalves de Mesquita](https://github.com/anne-cgm)]
