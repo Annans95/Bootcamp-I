@@ -33,13 +33,21 @@ Este é um jogo simples de adivinhação desenvolvido em linguagem C. O programa
 ##  Exemplo de uso
 
 Jogo da Adivinhação
+
 Digite a sua tentativa de 1 a 100: 50
+
 Muito Baixo!
+
 Você errou, digite novamente: 75
+
 Muito Alto!
+
 Você errou, digite novamente: 63
+
 Muito Baixo!
+
 Você errou, digite novamente: 70
+
 Você acertou! Número de tentativas: 4
 
 ## Tecnologias utilizadas
