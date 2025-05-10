@@ -13,14 +13,23 @@ Digite o valor do primeiro fator: 5
 **Saída esperada:**
 
 5X1=5
+
 5X2=10
+
 5X3=15
+
 5X4=20
+
 5X5=25
+
 5X6=30
+
 5X7=35
+
 5X8=40
+
 5X9=45
+
 5X10=50
 
 ## Tecnologias usadas
