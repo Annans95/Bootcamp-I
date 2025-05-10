@@ -15,13 +15,14 @@ Digite o valor final em Fahrenheit: 50
 
 **Saída esperada:**
 
-Fahrenheit|	Celsius
-45°F      |7.22°C
-46°F      |7.78°C
-47°F      |8.33°C
-48°F      |8.89°C
-49°F      |9.44°C
-50°F      |10.00°C
+| Fahrenheit | Celsius |
+| --------   | ------- |
+| 45°F       | 7.22°C  |
+| 46°F       | 7.78°C  |
+| 47°F       | 8.33°C  |
+| 48°F       | 8.89°C  |
+| 49°F       | 9.44°C  |
+| 50°F       | 10.00°C |
 
 ## Tecnologias usadas
 - Python 3.13.2  
