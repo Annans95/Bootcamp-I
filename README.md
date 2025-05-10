@@ -12,7 +12,8 @@ Este repositório tem como objetivo organizar e apresentar meus projetos acadêm
 
 - **Nome:** Anna Nicolly da Silva  
 - **Localização:** Brasília - DF  
-- **Contato:** anna.95jay@gmail.com  
+- **Contato:** anna.95jay@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/anna-silva-a56330365/
 - **Início da graduação:** 2025  
 - **Instituição:** Centro Universitário de Brasília (CEUB)  
 - **Nível de Inglês:** Básico (sem certificado)
