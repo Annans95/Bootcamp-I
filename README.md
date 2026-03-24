@@ -2,7 +2,7 @@
 
 # Portfólio Acadêmico – Anna Nicolly da Silva
 
-Olá! Sou estudante de **Ciência da Computação** no CEUB – Brasília, atualmente no primeiro semestre (início em 2025), com previsão de conclusão para o final de 2028.
+Olá! Sou estudante de **Ciência da Computação** no CEUB – Brasília, atualmente no terceiro semestre, com previsão de conclusão para o final de 2028.
 
 Este repositório tem como objetivo organizar e apresentar meus projetos acadêmicos, atividades e aprendizados ao longo da graduação.
 
@@ -28,14 +28,22 @@ Este repositório tem como objetivo organizar e apresentar meus projetos acadêm
 
 ---
 
-## Ferramentas que utilizo
+## 💻 Tecnologias que utilizo
 
-- Visual Studio Code  
-- Python (iniciante)  
-- C/C++ (iniciante)  
-- Google Docs, Notion, Canvas  
-- GitHub (começando agora!)  
-- Figma (prototipagem)  
+### Backend / Lógica
+- Java
+- Python
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+
+### Ferramentas
+- Git & GitHub
+- IntelliJ IDEA / VS Code
+- Figma
+- Notion
 
 ---
 
