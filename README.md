@@ -21,10 +21,19 @@ Este repositório tem como objetivo organizar e apresentar meus projetos acadêm
 - **Habilidades:** Boa comunicação, proatividade, interesse em desenvolvimento de software e aprendizado constante.
 
 ---
+## ✨ Projetos em destaque
 
-## Projetos
-- [Projetos em Python](./Python/)
-- [Projetos em C](./C/)
+- 🃏 Baile das Máscaras  
+  Jogo/sistema mais completo  
+  🔗 GitHub: https://github.com/Annans95/Baile-das-Mascaras
+
+  ## 📁 Projetos de estudo
+
+### 🐍 Python
+- [Ver projetos em Python](./Python/)
+
+### 💻 C
+- [Ver projetos em C](./C/) 
 
 ---
 
