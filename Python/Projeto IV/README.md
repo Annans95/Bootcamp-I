@@ -10,13 +10,6 @@ Execute o programa e digite o número que deseja ver a tabuada.
 
 Digite o valor do primeiro fator: 5  
 
-**Saída esperada:**
-
-5X1=5
-
-5X2=10
-
-5X3=15
 
 5X4=20
 
@@ -35,3 +28,13 @@ Digite o valor do primeiro fator: 5
 ## Tecnologias usadas
 - Python 3.13.2  
 - Terminal/Prompt de comando
+
+##Melhoria aplicada
+
+Melhorias aplicadas:
+
+f"{primeiro:2} x {i:2} = {resultado:3}": formata os números para ficarem alinhados, deixando a saída mais legível.
+
+Nome da variável m substituído por resultado, mais descritivo.
+
+Remoção de argumentos desnecessários no range() (padrão já é passo 1).
